@@ -1,0 +1,27 @@
+{
+	"name":         "bored",
+	"version":      "0.0.1",
+	"authors": [
+		"Anthony Weber<info@anthony-web.com>"
+	],
+	"description": "I'm so bored.",
+	"main":        "app/index.html",
+	"keywords":    [
+		"I'm, so, bored."
+	],
+	"license":     "MIT",
+	"homepage":    "www.anthony-web.com",
+	"ignore":      [
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"app/bower_components",
+		"test",
+		"tests"
+	],
+	"dependencies": {
+		
+		
+	}
+}
+

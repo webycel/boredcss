@@ -1,0 +1,16 @@
+{
+  "generator-html5-app": {
+    "stylesheet": "css",
+    "appname": "bored",
+    "script": "js",
+    "markup": "html",
+    "build": "grunt",
+    "testFramework": "mocha",
+    "includejQuery": false,
+    "description": "I'm so bored.",
+    "authorName": "Anthony Weber",
+    "authorEmail": "info@anthony-web.com",
+    "authorURL": "www.anthony-web.com",
+    "license": "MIT"
+  }
+}
